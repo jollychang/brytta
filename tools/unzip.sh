@@ -1,0 +1,1 @@
+find . -name 'Legends*.zip'  -exec unzip -P 'www.zasv.com-JVC' {} \;

@@ -1,0 +1,1 @@
+find /var/hda/files/Download/BT/ -maxdepth 1 -regextype posix-basic -iregex '.*/[a-c][^/]*$' -exec cp -rft /mnt/wyf/Music/music/New/new/ {} +
